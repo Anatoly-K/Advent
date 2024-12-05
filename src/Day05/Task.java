@@ -72,6 +72,7 @@ public class Task {
                         }
                     }
                 }
+
                 System.out.println("after: " + oneLine);
                 System.out.println(oneLine.get((oneLine.size() - 1) / 2));
                 sum += oneLine.get((oneLine.size() - 1) / 2);
